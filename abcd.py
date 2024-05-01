@@ -11,7 +11,7 @@ To clone a remote repository, use the following command git clone <remote-url>
 ●	Replace <remote-url> with the URL of the remote repository.
 
 ●	To add a remote repository, use the following command:
-<remote-name> <remote-url>
+git add remote <remote-name> <remote-url>
 
 ●	To push changes to a remote repository, use the following command:
 git push <remote-name> <branch-name>
