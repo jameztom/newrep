@@ -29,6 +29,7 @@ Remove a Git submodule: git submodule deinit [submodule path]
 Use Git aliases
 Set up a Git alias: git config –global alias.[alias name] ‘[Git command]’
 
+git submodule add linkS
 Use a Git alias: git [alias name]
 conflicts: git merge tool
 Delete a branch: git branch -d [name]
